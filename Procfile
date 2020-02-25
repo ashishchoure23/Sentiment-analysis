@@ -1,1 +1,1 @@
-web: gunicorn app:sentiment-prediction
+web: gunicorn app:app
