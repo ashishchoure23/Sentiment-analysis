@@ -25,14 +25,15 @@ This notebook contains visualization for below topics:
 # Installing
 
 Use below command to install dependency to build and deploy model
-'pip install -r requirements.txt'
-
+```bash
+pip install -r requirements.txt
+```
 Additionally, to run notebook install below packages
-
-1. 'pip install matplotlib'
-2. 'pip install seaborn'
-3. 'pip install pandas'
-
+```bash
+    1. pip install matplotlib
+    2. pip install seaborn
+    3. pip install pandas
+```
 # License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ashishchoure23/Sentiment-analysis/blob/master/LICENSE.md) file for details.
