@@ -22,6 +22,10 @@ This notebook contains visualization for below topics:
     5.  Best high end product
     6.  Price vs Rating distribution
 
+# Live app
+
+[Sentiment Prediction](https://sentiment-prediction.herokuapp.com/)
+
 # Installing
 
 Use below command to install dependency to build and deploy model
